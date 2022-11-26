@@ -1,4 +1,4 @@
-name: test-env
+name: multicompartment
 channels:
   - conda-forge
   - dokken
@@ -10,3 +10,4 @@ dependencies:
   - pandas
   - python=3.10
   - svmtk
+  - pint
