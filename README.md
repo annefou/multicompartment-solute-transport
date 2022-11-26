@@ -1,6 +1,10 @@
 # MultiCompartment Solute Transport
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jorgenriseth/multicompartment-solute-transport/HEAD)
 
+[![ROHUB](https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue)](https://w3id.org/ro-id/e7f90fc2-ddcb-4369-9f31-b81123b40533)
+
+
+    
 This repository contains source code for the simulations pressented in the paper "Multi-compartmental model of glymphatic clearance of solutes in brain tissue" by Poulain, Riseth and Vinje. For now it contains only a minimal working example for running the simulations, but will be reorganized to be more accessible and more easily **extended** in the near future. 
 
 ## Files
